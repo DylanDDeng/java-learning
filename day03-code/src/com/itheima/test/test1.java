@@ -23,6 +23,5 @@ public class test1 {
         System.out.println("个位是:" + ge);
         System.out.println("十位是:" + shi);
         System.out.println("百位是:"+ bai);
-
     }
 }
