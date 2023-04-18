@@ -9,7 +9,6 @@ public class AssigningoperatorDemo1 {
         a += b; // a = a+b
         System.out.println(a); //30
         System.out.println(b); //20
-
         // 细节：
         // 包含强制类型转换
         short s = 1;
