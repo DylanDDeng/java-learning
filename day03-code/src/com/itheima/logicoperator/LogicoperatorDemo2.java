@@ -8,7 +8,6 @@ public class LogicoperatorDemo2 {
         System.out.println(false ^ false);
         System.out.println(true ^ false);
         System.out.println(false ^ true);
-
         // ! 逻辑非 取反
         System.out.println(!false);
         System.out.println(!true);
