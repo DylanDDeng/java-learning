@@ -10,7 +10,6 @@ public class test2 {
         int myFashion = sc.nextInt();
         System.out.println("请输入相亲对象的时髦度");
         int girlFashion = sc.nextInt();
-
         // 2. 把我衣服时髦度跟女孩衣服时髦度进行对比就可以了
         boolean result = myFashion > girlFashion;
 

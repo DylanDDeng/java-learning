@@ -11,7 +11,7 @@ public class AssigningoperatorDemo1 {
         System.out.println(b); //20
 
         // 细节：
-        // 强制类型转换
+        // 包含强制类型转换
         short s = 1;
         s += 1;
         System.out.println(s); // 2
