@@ -20,7 +20,7 @@ public class test9 {
         System.out.println("请录入星期");
         int week = sc.nextInt();
 
-        // 2.利用switch进行星期匹配
+        // 2.利用switch进行星期几匹配
         switch (week) {
             case 1 -> System.out.println("跑步");
             case 2 -> System.out.println("游泳");
