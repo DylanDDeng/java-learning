@@ -7,7 +7,6 @@ public class InfiniteLoopDemo1 {
         for(;;){
             System.out.println("学习");
         }
-
          */
         while(true){
             System.out.println("学习");
