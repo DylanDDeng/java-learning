@@ -1,4 +1,4 @@
-package com.itheima.infiniteloop;
+package com.itheima.skiploop;
 
 public class SkipLoopDemo1 {
     public static void main(String[] args) {
