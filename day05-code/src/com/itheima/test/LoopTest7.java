@@ -20,7 +20,7 @@ public class LoopTest7 {
             System.out.println("请输入你要猜的数字");
             int guessNumber = sc.nextInt();
 
-            // 保底机制
+            // 保底机制 - 猜到第三次，无论猜的是什么，都提示正确
             count ++;
             if(count == 3){
                 System.out.println("猜中了");
