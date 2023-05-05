@@ -10,6 +10,7 @@ public class ArrTest2 {
                 count ++;
             }
         }
+        // 打印个数
         System.out.println(count);
     }
 }

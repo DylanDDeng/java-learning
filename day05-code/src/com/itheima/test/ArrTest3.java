@@ -13,6 +13,7 @@ public class ArrTest3 {
         }
         // 遍历数组
         // 一个循环尽量只做一件事情
+        // 打印结果
         for(int i = 0; i < arr.length; i++){
             System.out.println(arr[i]);
         }
