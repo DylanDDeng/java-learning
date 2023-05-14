@@ -3,6 +3,7 @@ package com.itheima.methoddemo;
 public class MethodDemo3 {
     public static void main(String[] args) {
         // 需求： 在方法里定义两个变量并求和打印
+        // 调用方法
         getSum();
     }
     public static void getSum(){

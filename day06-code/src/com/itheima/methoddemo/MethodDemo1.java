@@ -5,7 +5,7 @@ public class MethodDemo1 {
         // 目标：掌握最简单的方法定义和调用的格式
 
         // 调用方法
-        playGame();
+        playGame(); //打一局游戏
         playGame(); //打两局游戏
 
     }
