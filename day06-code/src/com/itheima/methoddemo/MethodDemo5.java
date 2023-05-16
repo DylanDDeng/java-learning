@@ -20,6 +20,8 @@ public class MethodDemo5 {
         int sum3 = getSum(50, 30, 10);
         int sum4 = getSum(60, 10, 10);
 
+        // 加总
+
         int sum = sum1 + sum2 + sum3 + sum4;
 
         System.out.println(sum);

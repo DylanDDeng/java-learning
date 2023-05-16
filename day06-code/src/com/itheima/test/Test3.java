@@ -14,6 +14,7 @@ public class Test3 {
 
 
     }
+    // 方法定义
     public static double getArea(double len, double width){
         double area = len * width;
         return area;
