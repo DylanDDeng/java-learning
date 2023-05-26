@@ -5,7 +5,7 @@ public class Test9 {
         int number = 100;
         System.out.println("调用方法前："+ number); // 100
         change(number);
-        System.out.println("调用方法后：" + number); // 100
+        System.out.println("调用方法后：" + number); // 100 不改变
 
     }
     public static void change(int number){

@@ -5,7 +5,7 @@ public class Test10 {
         int [] arr = {10, 20, 30};
         System.out.println("调用change方法前:" + arr[1] );
         change(arr);
-        System.out.println("调用change方法后：" + arr[1]);
+        System.out.println("调用change方法后：" + arr[1]); // 改变
     }
 
     public static void change(int[]arr){
