@@ -14,6 +14,7 @@ public class Test4 {
         for (int i = 0; i < arr.length; i++) {
             newArr[i] = arr[i];
         }
+        // 打印
         for (int i = 0; i < newArr.length; i++) {
             System.out.println(newArr[i]);
         }

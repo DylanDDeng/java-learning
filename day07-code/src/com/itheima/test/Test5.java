@@ -30,7 +30,7 @@ public class Test5 {
 
     }
 
-    // 录入分数
+    // 录入分数方法
     public static int[] getScore() {
         // 1. 定义数组 存储分数
         int[] scores = new int[6];
@@ -49,7 +49,7 @@ public class Test5 {
         return scores;
     }
 
-    // 得到最大值
+    // 得到最大值方法
     public static int getMax(int[] scoreArr) {
         int max = scoreArr[0];
         for (int i = 0; i < scoreArr.length; i++) {
@@ -60,7 +60,7 @@ public class Test5 {
         return max;
     }
 
-    // 得到最小值
+    // 得到最小值方法
     public static int getMin(int[] scoreArr) {
         int min = scoreArr[0];
         for (int i = 0; i < scoreArr.length; i++) {
@@ -71,7 +71,7 @@ public class Test5 {
         return min;
     }
 
-    // 数组求和
+    // 数组求和方法
     public static int getSum(int[]scoreArr){
         int sum = 0 ;
         for (int i = 0; i < scoreArr.length; i++) {
