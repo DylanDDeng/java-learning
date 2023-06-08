@@ -1,4 +1,4 @@
-package com.itheima.test;
+package com.itheima.test.test2;
 
 public class GirlFriend {
      // 属性

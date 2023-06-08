@@ -1,4 +1,4 @@
-package com.itheima.test;
+package com.itheima.test.test1;
 
 public class StringTest {
     public static void main(String[] args) {

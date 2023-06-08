@@ -1,4 +1,4 @@
-package com.itheima.test;
+package com.itheima.test.test3;
 
 public class Phone {
 

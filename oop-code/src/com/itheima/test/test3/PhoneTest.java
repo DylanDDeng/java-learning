@@ -1,4 +1,6 @@
-package com.itheima.test;
+package com.itheima.test.test3;
+
+import com.itheima.test.test3.Phone;
 
 public class PhoneTest {
     public static void main(String[] args) {
