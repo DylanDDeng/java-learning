@@ -13,8 +13,9 @@ public class GirlFriend {
     // name
 
     // 赋值
-    public void setName(String n){
-        name = n;
+    public void setName(String name){
+        // 等号的左边表示成员位置的name
+        this.name = name;
     }
     // 对外提供name属性
     public String getName(){
@@ -22,9 +23,9 @@ public class GirlFriend {
     }
 
     // age
-    public void setAge(int a){
-        if(a >=18 && a <=50){
-            age = a;
+    public void setAge(int age){
+        if(age >=18 && age <=50){
+            this.age = age;
         }else{
             System.out.println("非法数据");
         }
@@ -34,8 +35,8 @@ public class GirlFriend {
         return age;
     }
     // gender
-    public void setGender(String g){
-        gender = g ;
+    public void setGender(String gender){
+        this.gender = gender ;
     }
     public String getGender(){
         return gender;
