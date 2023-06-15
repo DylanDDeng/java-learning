@@ -74,7 +74,6 @@ public class Role {
     }
 
 
-    // 空参
 
     public String getName(){
         return name;
